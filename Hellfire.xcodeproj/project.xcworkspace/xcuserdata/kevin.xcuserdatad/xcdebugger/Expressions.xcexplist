@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "World::hasPlayerAlive() const:World.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "mPlayerAircraft-&gt;IsMarkedForRemoval()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SceneNode::getWorldTransform() const:SceneNode.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
